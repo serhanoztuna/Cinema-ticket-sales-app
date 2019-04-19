@@ -1,0 +1,45 @@
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.exe.config
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.Form1.resources
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.exe
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\bin\Debug\Sinema.pdb
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.exe
+c:\users\serhan\documents\visual studio 2015\Projects\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\bin\Debug\Sinema.exe
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\bin\Debug\Sinema.pdb
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.Form1.resources
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.exe
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.pdb
+C:\Users\Mehmet Can\source\repos\Sinema\Sinema\obj\Debug\Sinema.AdminForm.resources
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\bin\Debug\Sinema.exe
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\bin\Debug\Sinema.pdb
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.csprojResolveAssemblyReference.cache
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.AdminForm.resources
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Form1.resources
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.csproj.GenerateResource.Cache
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.exe
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.pdb
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Acilis.resources
+C:\Users\serhan\Documents\Visual Studio 2015\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Bilet.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\bin\Debug\Sinema.exe.config
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\bin\Debug\Sinema.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\bin\Debug\Sinema.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.csprojAssemblyReference.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Acilis.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.AdminForm.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Bilet.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Form1.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.Properties.Resources.resources
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.csproj.GenerateResource.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\SinemaApp\Sinema\obj\Debug\Sinema.pdb
